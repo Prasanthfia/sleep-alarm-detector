@@ -1,4 +1,3 @@
-@@ -0,0 +1,31 @@
 # 😴 Sleep Alarm Detector
 
 A real-time sleep detection system that monitors eye movements through a webcam and alerts users when prolonged eye closure is detected. The application uses computer vision techniques to track facial landmarks and determine whether the user is awake or falling asleep.
